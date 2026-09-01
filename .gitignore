@@ -1,0 +1,11 @@
+# 运行时数据
+__pycache__/
+*.pyc
+.clipnote/
+
+# 备份 / 导出
+clipnote_export.json
+
+# 编辑器
+.vscode/
+.idea/
